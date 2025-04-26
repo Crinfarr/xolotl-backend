@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "xabikos.javascriptsnippets",
+        "ms-vscode.makefile-tools",
+        "bengreenier.vscode-node-readme",
+        "christian-kohler.path-intellisense",
+        "mtxr.sqltools-driver-sqlite"
+    ]
+}
